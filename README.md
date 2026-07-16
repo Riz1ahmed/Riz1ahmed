@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Riz1ahmed
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning OpenGL...
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+# Hi, I'm Rizwan Ahmed 👋
 
-<!---
-Riz1ahmed/Riz1ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mobile App Developer with 5+ years of experience in Android (Kotlin) and Flutter.
+
+I enjoy building useful apps, learning new technologies, and solving programming problems. Currently, I'm exploring Cyber Security and AI.
+
+🌐 Portfolio: [https://your-portfolio-url.com  ](Riz1Dev.web.app)
+💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username/  ](linkedin.com/in/Riz1-Ahmed)
+📍 Berlin, Germany
